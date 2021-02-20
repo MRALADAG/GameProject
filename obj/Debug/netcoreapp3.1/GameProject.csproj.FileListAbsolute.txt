@@ -1,0 +1,13 @@
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+D:\Dosyalar\Programlar\VisualStudioProjects\cSharp\IntroductionCsharp\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
